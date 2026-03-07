@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServicePulseMonitor.Client", "ServicePulseMonitor.Client\ServicePulseMonitor.Client.csproj", "{081A47F2-28E4-4EE5-9AC8-62A6E193C664}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServicePulseMonitor.Client.Tests", "ServicePulseMonitor.Client.Tests\ServicePulseMonitor.Client.Tests.csproj", "{DA0AB0C4-D70D-48B1-A8DB-BCB382C300B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{081A47F2-28E4-4EE5-9AC8-62A6E193C664}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{081A47F2-28E4-4EE5-9AC8-62A6E193C664}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{081A47F2-28E4-4EE5-9AC8-62A6E193C664}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{081A47F2-28E4-4EE5-9AC8-62A6E193C664}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA0AB0C4-D70D-48B1-A8DB-BCB382C300B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA0AB0C4-D70D-48B1-A8DB-BCB382C300B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA0AB0C4-D70D-48B1-A8DB-BCB382C300B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA0AB0C4-D70D-48B1-A8DB-BCB382C300B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
