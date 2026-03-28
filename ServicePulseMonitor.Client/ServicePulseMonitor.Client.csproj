@@ -13,6 +13,7 @@
     <Description>A .NET client library for integrating microservices with the ServicePulseMonitor health monitoring API.</Description>
     <PackageTags>health;monitoring;microservices;aspnetcore</PackageTags>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <PackageOutputPath>$(MSBuildThisFileDirectory)..\nupkgs</PackageOutputPath>
   </PropertyGroup>
 
   <ItemGroup>
